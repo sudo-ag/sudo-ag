@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudo-ag
+- 👋 Hi, I’m @sudo-ag/Alexes Gonzalez
 - 👀 I’m interested in ... C++ , python , blockchain , pentetration testing and networking
 - 🌱 I’m currently learning ... C++ python
 - 💞️ I’m looking to collaborate on ... c++ projects & python projects.
