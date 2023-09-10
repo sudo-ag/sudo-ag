@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudo-ag/Alexes Gonzalez
-- 👀 I’m interested in ... C++ , python , blockchain , pentetration testing and networking
-- 🌱 I’m currently learning ... C++ python
+- 👀 I’m interested in ... C++ , python , blockchain , penetration testing and networking
+- 🌱 I’m currently learning ... C++ python kali Linux and many more!
 - 💞️ I’m looking to collaborate on ... c++ projects & python projects.
 - 📫 How to reach me ... alexesgonzalez75@outlook.com
 
